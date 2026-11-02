@@ -3,20 +3,6 @@ class mobil {
     int tahunProduksi;
 }
 
-// public class MobilBeraksi {
-//     public static void main(String[]args){
-//     mobil mobilku = new mobil();
-//     mobilku.color = "Hitam";
-//     mobilku.tahunProduksi = 2025;
-
-//     System.out.println(" mobil saya berwarna " + mobilku.color + " mobilku keluar pada tahun " + mobilku.tahunProduksi);
-    
-
-
-
-    
-//     }
-// }
 public class MobilBeraksi{
     public static void main(String[]args ){
 
